@@ -1,2 +1,8 @@
 # TPSynthese_Android
-This project was to learn how to code in Kotlin and develope an application presented by the teacher.
+# English
+## Cégep Saint-jérome android app developpement Class final team Project.
+Author : Raphael Nadeau && William Bergeron && Julius Leblanc
+
+# Francais
+## Cégep Saint-jérome. Projet final du cours developpement d'apllication android.
+Autheur : Raphael Nadeau && William Bergeron && Julius Leblanc
