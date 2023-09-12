@@ -4,5 +4,5 @@
 Author : Raphael Nadeau & William Bergeron & Julius Leblanc
 
 # Francais
-## Cégep Saint-jérome. Projet final du cours developpement d'apllication android.
+## Cégep Saint-jérome. Projet final du cours developpement d'application android.
 Autheur : Raphael Nadeau & William Bergeron & Julius Leblanc
